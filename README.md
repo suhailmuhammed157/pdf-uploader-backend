@@ -15,10 +15,10 @@
 what you didn’t like, and where you faced issues.
 
 - I initially planned to not use a backend for the file uploader(front-end). But to make more practical and a real life scenario where a front-end is communicated with backend via APIs.
-- I was not familiar with MongoDB and Mongoose, so I decided to store the uploaded files in a local directory.
-- The way in which the APIs are constructed using middlewares for a proper structure and validations.
+- The uploaded files are stored in a local directory.
+- The APIs are constructed using middlewares for a proper structure and validations.
 - The issues which I faced was mainly for the fileuploader package, which I was using for the first time. I have used Multer previously. Since it is just for a single file uplaod, I have tried fileupload package.
 
 ○ Estimated time to complete yourtest.
 
-- Approcimately 4 hours was taken to completely finish the backend with testing.
+- Approcimately 4 hours was taken to completely finish the backend with manual testing.
